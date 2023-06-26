@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP**
 
-- 👯 I’m looking to collaborate on [DataGuru](https://github.com/gunaxprofessional/DataGuru)
+- 🤝 I’m looking for help with [DataGuru](https://github.com/gunaxprofessional/DataGuru)
 
 - 💬 Ask me about **Programming, Computers, and AI**
 
